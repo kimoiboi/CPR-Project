@@ -1,89 +1,347 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="W3guERGxIWUFz4Kcla7F">
-    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2153" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-23" value="Open the app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="10" width="120" height="60" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-23" value="Open the app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="295" width="260" height="360" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="280" width="260" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-27" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" width="90" height="60" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-27" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="280" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="l1RBHYX4RAmMhWk1Z59F-23">
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l1RBHYX4RAmMhWk1Z59F-23" edge="1" target="2LaGJKrrukRz4IHEhToG-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="90" as="sourcePoint" />
-            <mxPoint x="280" y="40" as="targetPoint" />
+            <mxPoint x="120" y="-260" as="sourcePoint" />
+            <mxPoint x="395" y="-460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="-600" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l1RBHYX4RAmMhWk1Z59F-24" target="l1RBHYX4RAmMhWk1Z59F-24">
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="l1RBHYX4RAmMhWk1Z59F-24" target="l1RBHYX4RAmMhWk1Z59F-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-33" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="10" width="100" height="30" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-33" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="290" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-34" value="Before we proceed&amp;nbsp; are you CPR certified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="100" width="190" height="80" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-34" value="Before we proceed&amp;nbsp; are you CPR certified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="380" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-36" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="170" width="40" height="30" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-36" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="450" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-37" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="170" width="50" height="30" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-37" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="415" y="450" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-40" value="may include an image of a red cross(keep it minimal to not distract users)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-40" value="may include an image of a red cross(keep it minimal to not distract users)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-42" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="555" y="360" as="sourcePoint" />
-            <mxPoint x="620" y="420" as="targetPoint" />
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-44" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1110" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l1RBHYX4RAmMhWk1Z59F-45" value="No" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="869" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1320" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-2" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1320" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-1" target="2LaGJKrrukRz4IHEhToG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-4" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-5" value="What is the age of the person reciving cpr?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1390" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-6" value="Adult" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1460" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-7" value="Child" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1520" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-8" value="Infant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1580" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1RBHYX4RAmMhWk1Z59F-24" target="2LaGJKrrukRz4IHEhToG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-43" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="295" y="360" as="sourcePoint" />
-            <mxPoint x="230" y="420" as="targetPoint" />
+        <mxCell id="2LaGJKrrukRz4IHEhToG-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="739" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-11" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="739" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-10" target="2LaGJKrrukRz4IHEhToG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-13" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="749" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-14" value="Are you confortable giving rescue breaths?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="839" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-15" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="909" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-16" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="909" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-17" value="may include an image of a red cross(keep it minimal to not distract users)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1RBHYX4RAmMhWk1Z59F-24" target="2LaGJKrrukRz4IHEhToG-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="550" as="sourcePoint" />
+            <mxPoint x="420" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-44" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-45" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="320" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-46" value="is the person a baby, child or adult?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-47" value="Would you like to give rescue breaths" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="100" y="550" as="sourcePoint" />
-            <mxPoint x="160" y="480" as="targetPoint" />
+        <mxCell id="2LaGJKrrukRz4IHEhToG-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-10" target="2LaGJKrrukRz4IHEhToG-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1110" as="sourcePoint" />
+            <mxPoint x="280" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-49" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.192;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l1RBHYX4RAmMhWk1Z59F-52">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="320" y="540" as="sourcePoint" />
-            <mxPoint x="270" y="480" as="targetPoint" />
+        <mxCell id="2LaGJKrrukRz4IHEhToG-21" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-22" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-23" value="Store this within a boolean as true" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1180" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-25" value="Store this within a boolean as false" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="1200" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-23" target="2LaGJKrrukRz4IHEhToG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="850" as="sourcePoint" />
+            <mxPoint x="540" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-50" value="&lt;div&gt;is the person a baby, child or adult?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="31" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="2LaGJKrrukRz4IHEhToG-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-10" target="2LaGJKrrukRz4IHEhToG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="1121" as="sourcePoint" />
+            <mxPoint x="80" y="1180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-52" value="is the person a baby, child or adult?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="2LaGJKrrukRz4IHEhToG-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-25" target="2LaGJKrrukRz4IHEhToG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1260" as="sourcePoint" />
+            <mxPoint x="190" y="1361" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-53" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="460" width="80" height="60" as="geometry" />
+        <mxCell id="2LaGJKrrukRz4IHEhToG-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-1" target="2LaGJKrrukRz4IHEhToG-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1860" as="sourcePoint" />
+            <mxPoint x="395" y="1790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="l1RBHYX4RAmMhWk1Z59F-54" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="450" width="80" height="70" as="geometry" />
+        <mxCell id="2LaGJKrrukRz4IHEhToG-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1810" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-40" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1810" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="2LaGJKrrukRz4IHEhToG-39" target="2LaGJKrrukRz4IHEhToG-39" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-42" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1820" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-43" value="Before we proceed&amp;nbsp; are you CPR certified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1910" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-44" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1980" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-45" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1980" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-46" value="may include an image of a red cross(keep it minimal to not distract users)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-48" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-132.5" y="1814.57" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-49" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="1814.57" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="2LaGJKrrukRz4IHEhToG-48" target="2LaGJKrrukRz4IHEhToG-48" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-51" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-122.5" y="1824.57" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-52" value="Before we proceed&amp;nbsp; are you CPR certified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-97.5" y="1914.57" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-53" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-72.5" y="1984.57" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-54" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="1984.57" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-55" value="may include an image of a red cross(keep it minimal to not distract users)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="2064.57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-56" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1810" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-57" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1810" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="2LaGJKrrukRz4IHEhToG-56" target="2LaGJKrrukRz4IHEhToG-56" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-59" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1820" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-60" value="Before we proceed&amp;nbsp; are you CPR certified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1910" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-61" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1980" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-62" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1980" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-63" value="may include an image of a red cross(keep it minimal to not distract users)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-1" target="2LaGJKrrukRz4IHEhToG-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529.5699999999999" y="1680" as="sourcePoint" />
+            <mxPoint x="529.5699999999999" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-1" target="2LaGJKrrukRz4IHEhToG-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="1680" as="sourcePoint" />
+            <mxPoint x="380" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-66" value="Adult" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1700" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-67" value="Child" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1710" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-68" value="Infant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1700" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-69" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-560" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-70" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-560" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="2LaGJKrrukRz4IHEhToG-69" target="2LaGJKrrukRz4IHEhToG-69" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-72" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-73" value="Is the person conscious? Shake the person. Did the person respond?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-460" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-74" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-380" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-75" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-77" value="Image of somone shaking unconscous person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-81" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-41.25" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-82" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-41.25" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="2LaGJKrrukRz4IHEhToG-81" target="2LaGJKrrukRz4IHEhToG-81" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-84" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-31.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-85" value="Is the person breathing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="58.75" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-86" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="138.75" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-87" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="138.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-88" value="Image of somone shaking unconscous person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="188.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-89" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-69" target="2LaGJKrrukRz4IHEhToG-81">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="530" y="-190" as="sourcePoint" />
+            <mxPoint x="630" y="-290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-91" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-230" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-92" value="Highlight the 911 button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-140" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-93" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-235" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-94" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-69" target="2LaGJKrrukRz4IHEhToG-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-100" as="sourcePoint" />
+            <mxPoint x="190" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-95" value="CPR is not needed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-100" width="200" height="106.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-97" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LaGJKrrukRz4IHEhToG-81" target="2LaGJKrrukRz4IHEhToG-98">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="900" y="330" as="sourcePoint" />
+            <mxPoint x="970" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-98" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="437.75" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-99" value="Call 911" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="437.75" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="2LaGJKrrukRz4IHEhToG-98" target="2LaGJKrrukRz4IHEhToG-98" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-101" value="Cpr instruction app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="447.75" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-102" value="Is the person breathing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="537.75" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-103" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="617.75" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-104" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="617.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LaGJKrrukRz4IHEhToG-105" value="Image of somone shaking unconscous person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="667.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
